@@ -8,8 +8,14 @@
 
 #### 4º passo: Instalar o Visual Studio Code em https://code.visualstudio.com.
 
-#### 5º passo: Criar um novo repositório no Desktop Github e o abrir no VSCode
+#### 5º passo: Criar um novo repositório no Desktop Github e o abrir no VSCode.
 
 #### 6º passo: Criar um arquivo README.md dentro da pasta do repositório usando o VSCode. Geralmente a pasta do repositório se encontra em C:\Users\(usuário)\Documents\GitHub.
 
-#### 7º passo:
+#### 7º passo: Ativar o auto save do VSCode em "File > Auto Save".
+
+#### 8º passo: Escrever as seguintes linhas no arquivo README.md:
+
+### "# Nome do projeto
+### 
+### ## Descrição do projeto"
