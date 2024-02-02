@@ -1,3 +1,5 @@
-# NOME DO PROJETO
+# AULA 4 - TUTORIAL
 
-## Uma descrição
+## 1º passo: Entrar em https://github.com e criar uma nova conta.
+
+### 2º passo:
