@@ -8,11 +8,11 @@
 
 #### 4º passo: Instalar o Visual Studio Code em https://code.visualstudio.com.
 
-#### 5º passo: Criar um novo repositório no Desktop Github.
+#### 5º passo: Criar um novo repositório no Desktop GitHub.
 
-#### 6º passo: Publique seu repositório no Github em "Publish repository". Você poderá acessá-lo entrando no seu perfil do Github no navegador de sua preferência.
+#### 6º passo: Publique seu repositório no GitHub em "Publish repository". Você poderá acessá-lo entrando no seu perfil do GitHub no navegador de sua preferência.
 
-#### 7º passo: No Desktop Github, abra seu repositório no VSCode.
+#### 7º passo: No Desktop GitHub, abra seu repositório no VSCode.
 
 #### 8º passo: Criar um arquivo README.md dentro da pasta do repositório usando o VSCode. Geralmente a pasta do repositório se encontra em C:\Users\(usuário)\Documents\GitHub.
 
@@ -24,8 +24,8 @@
 ### 
 ### ## Descrição do projeto"
 
-#### 11º passo: Com o auto save ativado, as alterações devem aparecer no aplicativo do Desktop Github. No canto inferior esquerdo, você verá dois espaços para você dar nome à alteração no seu projeto e descrevê-la. Se for de sua preferência, faça isso.
+#### 11º passo: Com o auto save ativado, as alterações devem aparecer no aplicativo do Desktop GitHub. No canto inferior esquerdo, você verá dois espaços para você dar nome à alteração no seu projeto e descrevê-la. Se for de sua preferência, faça isso.
 
 #### 12º passo: Selecione a opção "Commit to main".
 
-#### 13º passo: Após efetuar o "commit", selecione a opção "Push origin" para enviar as alterações para o Github.
+#### 13º passo: Após efetuar o "commit", selecione a opção "Push origin" para enviar as alterações para o GitHub.
