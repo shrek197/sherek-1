@@ -29,3 +29,5 @@
 #### 12º passo: Selecione a opção "Commit to main".
 
 #### 13º passo: Após efetuar o "commit", selecione a opção "Push origin" para enviar as alterações para o GitHub.
+
+#### 14º passo: No Desktop GitHub, faça questão de verificar se a versão publicada é a mais recente em "Repository > Pull".
