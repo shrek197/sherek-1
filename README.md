@@ -28,4 +28,4 @@
 
 #### 12º passo: Selecione a opção "Commit to main".
 
-#### 13º passo: Após efetuar o "commit", selecione a opção "
+#### 13º passo: Após efetuar o "commit", selecione a opção "Push origin".
